@@ -1,4 +1,4 @@
-## Next js Ecommerce Website
+## Next js Cookware Ecommerce Website
 
 description
 
